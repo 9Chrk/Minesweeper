@@ -8,8 +8,6 @@ Demineur est une implémentation en ligne de commande du célèbre jeu de Démin
 
 Les mines ne sont placées qu’après le premier dévoilement. La case de départ et ses huit voisines éventuelles sont donc protégées, puis le terminal affiche la grille, ses coordonnées et les changements d’état au fil des coups. Le projet n’utilise que la bibliothèque standard de Python ; les tests automatisés reposent sur `pytest`.
 
-**Auteur :** Jawad Cherkaoui — matricule 576517
-
 ## 📖 Sommaire
 
 - [Fonctionnalités](#-fonctionnalités)
