@@ -1,4 +1,4 @@
-# Demineur
+# Minesweeper
 
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Interface](https://img.shields.io/badge/Interface-terminal-lightgrey)
