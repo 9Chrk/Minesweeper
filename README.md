@@ -4,7 +4,7 @@
 ![Interface](https://img.shields.io/badge/Interface-terminal-lightgrey)
 ![Licence MIT](https://img.shields.io/badge/Licence-MIT-green)
 
-Demineur est une implémentation en ligne de commande du célèbre jeu de Démineur, écrite en Python. Une partie se joue sur une grille dont les dimensions et le nombre de mines sont fournis au lancement : il faut dévoiler les cases sûres sans tomber sur une mine.
+Minesweeper est une implémentation en ligne de commande du célèbre jeu de Démineur, écrite en Python. Une partie se joue sur une grille dont les dimensions et le nombre de mines sont fournis au lancement : il faut dévoiler les cases sûres sans tomber sur une mine.
 
 Les mines ne sont placées qu’après le premier dévoilement. La case de départ et ses huit voisines éventuelles sont donc protégées, puis le terminal affiche la grille, ses coordonnées et les changements d’état au fil des coups. Le projet n’utilise que la bibliothèque standard de Python ; les tests automatisés reposent sur `pytest`.
 
